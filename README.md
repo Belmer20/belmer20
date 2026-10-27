@@ -1,9 +1,7 @@
 ![Masthead Banner](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Beldjoudi Meriem</h1>
-<h3 align="center">Artificial intelligence & data science student</h3>
+<h3 align="center">Artificial Intelligence & Data Science Engineer</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7fd4efd6621565a2e09921d15de74e315fc4a8755660721dcb9ce5f97d27abcb/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313638313536323530383336352f6b39367a307833566a2e676966" >
-
-- 👩‍💻 I'm an AI and Data Science Engineer
   
 - 🔭  I'm interested in **AI research, deep learning, and exploring new approaches to solving real-world problems.**
 
